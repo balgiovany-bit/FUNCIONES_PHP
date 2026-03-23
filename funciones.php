@@ -21,5 +21,16 @@ strtolower() / strtoupper(); //Convierte a minúsculas o mayúsculas.
 
 trim($cadena); //Elimina espacios en blanco al inicio y al final.
 
+explode(); //Divide un string en un arreglo mediante un delimitador.
+
+
+
+
+
+
+
+
+
+
 
 
