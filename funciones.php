@@ -31,7 +31,7 @@ array_merge(); //Combina dos o más arreglos
 
 array_push(); //Inserta uno o más elementos al final del arreglo.
 
-
+array_pop(); // Extrae el último elemento de un arreglo
 
 
 
