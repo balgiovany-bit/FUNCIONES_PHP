@@ -35,7 +35,7 @@ array_pop(); // Extrae el último elemento de un arreglo
 
 in_array(); //Comprueba si un valor existe en un arreglo.
 
-
+array_keys(); //Devuelve todas las llaves de un arreglo.
 
 
 
