@@ -13,6 +13,7 @@ strlen($cadena); //Devuelve la longitud de una cadena
 
 strpos($cadena, $busqueda); //Encuentra la posición de la primera aparición de un texto
 
+str_replace($busqueda, $reemplazo, $cadena); //Reemplaza todas las apariciones de un string buscado
 
 
 
