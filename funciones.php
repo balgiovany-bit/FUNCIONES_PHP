@@ -54,5 +54,5 @@ strtotime();  //Convierte una descripción de fecha en texto a un timestamp
 
 file_exists(); //Verifica si un archivo o directorio existe
 
-
+header();  // Envía un encabezado HTTP sin procesar (ej. para redirecciones)
 
