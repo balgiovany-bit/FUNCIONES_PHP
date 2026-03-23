@@ -17,6 +17,8 @@ str_replace($busqueda, $reemplazo, $cadena); //Reemplaza todas las apariciones d
 
 substr(); //Devuelve una parte de una cadena.
 
+strtolower() / strtoupper(); //Convierte a minúsculas o mayúsculas.
+
 
 
 
