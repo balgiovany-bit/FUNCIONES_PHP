@@ -33,6 +33,7 @@ array_push(); //Inserta uno o más elementos al final del arreglo.
 
 array_pop(); // Extrae el último elemento de un arreglo
 
+in_array(); //Comprueba si un valor existe en un arreglo.
 
 
 
