@@ -40,3 +40,7 @@ array_keys(); //Devuelve todas las llaves de un arreglo.
 array_values(); //Devuelve todos los valores de un arreglo.
 
 round(); // Redondea un número flot
+
+rand() / mt_rand(); //Genera un número entero aleatorio
+
+
