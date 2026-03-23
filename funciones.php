@@ -52,7 +52,7 @@ time(); //Devuelve la fecha actual en formato Unix timestamp (la cantidad de seg
 
 strtotime();  //Convierte una descripción de fecha en texto a un timestamp
 
-
+file_exists(); //Verifica si un archivo o directorio existe
 
 
 
