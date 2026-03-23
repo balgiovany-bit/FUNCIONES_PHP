@@ -44,3 +44,7 @@ round(); // Redondea un número flot
 rand() / mt_rand(); //Genera un número entero aleatorio
 
 number_format(); // Formatea un número con separadores de miles y decimales.
+
+date(); //Formatea una fecha y hora loca
+
+
