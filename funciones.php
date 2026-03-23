@@ -15,7 +15,7 @@ strpos($cadena, $busqueda); //Encuentra la posición de la primera aparición de
 
 str_replace($busqueda, $reemplazo, $cadena); //Reemplaza todas las apariciones de un string buscado
 
-substr(); //Devuelve una parte de una cadena.
+substr( $cadena, $inicio, $longitud ); //Devuelve una parte de una cadena.
 
 strtolower() / strtoupper(); //Convierte a minúsculas o mayúsculas.
 
@@ -55,4 +55,13 @@ strtotime();  //Convierte una descripción de fecha en texto a un timestamp
 file_exists(); //Verifica si un archivo o directorio existe
 
 header();  // Envía un encabezado HTTP sin procesar (ej. para redirecciones)
+
+json_encode() / json_decode(); // Convierte datos a formato JSON y viceversa
+                // JSON (JavaScript Object Notation) es un formato de texto ligero para el intercambio de datos, fácil de leer y escribir para humanos, y fácil de parsear y generar para máquinas. Es comúnmente utilizado en aplicaciones web para enviar datos entre el cliente y el servidor.
+
+die() / exit(); //Finaliza la ejecución del script actual con un mensaje
+
+
+
+
 
