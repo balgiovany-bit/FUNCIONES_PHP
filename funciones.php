@@ -47,4 +47,12 @@ number_format(); // Formatea un número con separadores de miles y decimales.
 
 date(); //Formatea una fecha y hora loca
 
+time(); //Devuelve la fecha actual en formato Unix timestamp (la cantidad de segundos desde el 1 de enero de 1970).
+        //es el timpo que interno de todos los sistemas operativos y lenguajes de programacion para manejar fechas y horas.
 
+
+
+
+
+
+        
