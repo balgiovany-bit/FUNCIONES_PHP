@@ -19,6 +19,7 @@ substr(); //Devuelve una parte de una cadena.
 
 strtolower() / strtoupper(); //Convierte a minúsculas o mayúsculas.
 
+trim($cadena); //Elimina espacios en blanco al inicio y al final.
 
 
 
