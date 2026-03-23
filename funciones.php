@@ -11,3 +11,10 @@ var_dump($variable); //Muestra información detallada de una variable se sutiliz
 
 strlen($cadena); //Devuelve la longitud de una cadena
 
+strpos($cadena, $busqueda); //Encuentra la posición de la primera aparición de un texto
+
+
+
+
+
+
