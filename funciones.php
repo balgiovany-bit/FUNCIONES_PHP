@@ -29,6 +29,8 @@ count(); // Cuenta los elementos de un arreglo.
 
 array_merge(); //Combina dos o más arreglos
 
+array_push(); //Inserta uno o más elementos al final del arreglo.
+
 
 
 
