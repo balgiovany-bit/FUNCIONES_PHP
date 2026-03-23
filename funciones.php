@@ -15,6 +15,7 @@ strpos($cadena, $busqueda); //Encuentra la posición de la primera aparición de
 
 str_replace($busqueda, $reemplazo, $cadena); //Reemplaza todas las apariciones de un string buscado
 
+substr(); //Devuelve una parte de una cadena.
 
 
 
