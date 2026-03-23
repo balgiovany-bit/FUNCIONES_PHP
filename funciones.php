@@ -23,6 +23,10 @@ trim($cadena); //Elimina espacios en blanco al inicio y al final.
 
 explode(); //Divide un string en un arreglo mediante un delimitador.
 
+implode(); //Une elementos de un arreglo en un string
+
+count(); // Cuenta los elementos de un arreglo.
+
 
 
 
